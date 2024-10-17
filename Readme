@@ -1,0 +1,2 @@
+instalar npm install -g http-server
+Correr el proyecto http-server -p 3001
